@@ -1,0 +1,15 @@
+/home/sir-beygon/Desktop/Development/Csharp/bin/Debug/net7.0/Csharp
+/home/sir-beygon/Desktop/Development/Csharp/bin/Debug/net7.0/Csharp.deps.json
+/home/sir-beygon/Desktop/Development/Csharp/bin/Debug/net7.0/Csharp.runtimeconfig.json
+/home/sir-beygon/Desktop/Development/Csharp/bin/Debug/net7.0/Csharp.dll
+/home/sir-beygon/Desktop/Development/Csharp/bin/Debug/net7.0/Csharp.pdb
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.csproj.AssemblyReference.cache
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfoInputs.cache
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfo.cs
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.csproj.CoreCompileInputs.cache
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.dll
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/refint/Csharp.dll
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.pdb
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/Csharp.genruntimeconfig.cache
+/home/sir-beygon/Desktop/Development/Csharp/obj/Debug/net7.0/ref/Csharp.dll
